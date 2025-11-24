@@ -24,7 +24,7 @@ h1 + h1 + h1{
   background-image: url("../cyber-monday-shopping-sales.jpg");
   background-size: cover;
 }
-@media(max-width:576px){
+@media(min-width:576px){
   .firstdiv{
     flex-direction:colum;
   }
