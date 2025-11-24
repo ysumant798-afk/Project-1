@@ -22,6 +22,7 @@ h1 + h1 + h1{
 
 .childDiv:nth-of-type(2){
   background-image: url("../cyber-monday-shopping-sales.jpg");
+  background-size: cover;
 }
 @media(max-width:576px){
   .firstdiv{
