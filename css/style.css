@@ -28,7 +28,4 @@ h1 + h1 + h1{
   .firstdiv{
     flex-direction:colum;
   }
-   .childdiv{
-     width:100%;
-   }
 }
