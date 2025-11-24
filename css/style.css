@@ -23,7 +23,7 @@ h1 + h1 + h1{
 .childDiv:nth-of-type(2){
   background-image: url("../cyber-monday-shopping-sales.jpg");
 }
-@media(min-width:576px){
+@media(max-width:576px){
   .firstdiv{
     flex-direction:colum;
   }
